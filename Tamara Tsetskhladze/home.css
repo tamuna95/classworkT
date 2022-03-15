@@ -1,0 +1,26 @@
+div{
+    margin:0,auto;
+    border:1px solid black;
+    width: 400px;
+}
+.normal{
+    font-style: normal;
+}
+.italic{
+    font-style: italic;
+
+}
+
+.oblique{
+    font-style: oblique;
+
+}
+p{
+    margin:30px;
+}
+
+.wraper{
+    text-align: center;
+    background-color: bisque;
+    height: 200px;
+}
